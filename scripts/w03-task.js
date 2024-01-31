@@ -112,7 +112,7 @@ btn5.addEventListener('click', getTotal);
 /* ARRAY METHODS - Functional Programming */
 /* Output Source Array */
 
-let numArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+let numArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 
 /* Output Odds Only Array */
 
